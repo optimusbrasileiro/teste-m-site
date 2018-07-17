@@ -91,7 +91,7 @@ Lista local:
  - A página ser responsiva;
  - Permitir edição;
  - Uso de pré-processador css;
- - TDD
+ - TDD.
 
 ### O que esperamos:
  - Utilizar ECMAScript 6+;
