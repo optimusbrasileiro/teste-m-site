@@ -95,6 +95,6 @@ Lista local:
 
 ### O que esperamos:
  - Utilizar ECMAScript 6+;
- - Criar uma breve descrição da solução utilizada;
  - Angularjs;
- - TypeScript.
+ - TypeScript;
+ - Criar uma breve descrição da solução utilizada.
